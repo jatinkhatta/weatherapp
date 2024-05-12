@@ -32,6 +32,4 @@ To run Forecastify locally, follow these steps:
 6. Save the `.env` file.
 7. Start the development server using `npm run dev`.
 
-## Live Demo
 
-Check out the live version of "Forecastify" [here](https://forecastify-chiragm999.netlify.app/).
