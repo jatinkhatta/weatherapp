@@ -33,4 +33,4 @@ To run Forecastify locally, follow these steps:
 7. Start the development server using `npm run dev`.
 
 ##Live Demo
-Here is the link to the live version of this app [Click Here](forecastify-jatin.netlify.app)
+Here is the link to the live version of this app [Click Here](https://forecastify-jatin.netlify.app/)
